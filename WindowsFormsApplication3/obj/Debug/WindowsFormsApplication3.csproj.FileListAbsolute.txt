@@ -1,0 +1,12 @@
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\DTLFolder\WindowsFormsApplication1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
